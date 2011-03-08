@@ -1,0 +1,3 @@
+This is a Visual Studio 2008 project.  You can either open it in MSDN or run the executable in the bin directory.  It creates a blank DB2 database, loads CSV's, and gives options to either detect taxonomic errors or proceed with duplicates.  It then either proceeds to correct taxonomic errors using a classification tree for text matching and WordNet databases for word sense disambiguation, or duplicates to store extra rows in an additional table.  
+
+DISCLAIMER: The work is very rough; please ensure to make a backup before testing it on your dataset.
